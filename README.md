@@ -1,7 +1,7 @@
-Jekyll Themes
+Leonardo Acosta G.
 =============
 
-A directory of the best-looking themes for Jekyll blogs
+Junior development
 
 
 Submitting a Theme
