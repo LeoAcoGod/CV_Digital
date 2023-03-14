@@ -36,6 +36,7 @@
 
  
 Habilidades
+
       MySQL 50%
       PHP 45%
       Java 60%
